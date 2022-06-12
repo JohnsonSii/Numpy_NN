@@ -7,7 +7,7 @@
 ##### Windows
 
 ```shell
-cd ./neural_network/Script
+cd neural_network/Scripts
 activate
 ```
 ##### Linux
