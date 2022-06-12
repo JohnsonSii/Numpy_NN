@@ -7,13 +7,17 @@
 ##### Windows
 
 ```shell
-cd neural_network/Scripts
-activate
+cd ./neural_network/Scripts
 ```
+
+```shell
+./activate
+```
+
 ##### Linux
 
 ```shell
-source neural_network
+source ./neural_network/Scripts/activate
 ```
 
 #### 运行程序
