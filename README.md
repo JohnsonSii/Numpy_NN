@@ -31,5 +31,5 @@ python train.py
 ##### Linux
 
 ```shell
-./neural_network/Scripts/python train.py
+./neural_network/Scripts/python.exe train.py
 ```
