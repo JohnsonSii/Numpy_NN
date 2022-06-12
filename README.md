@@ -22,14 +22,6 @@ source ./neural_network/Scripts/activate
 
 #### 运行程序
 
-##### Windows
-
-```shell
-python train.py
-```
-
-##### Linux
-
 ```shell
 ./neural_network/Scripts/python.exe train.py
 ```
