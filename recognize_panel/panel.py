@@ -1,7 +1,7 @@
 import sys
 sys.path.append(".")
 import os
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QWidget, QApplication, QPushButton, QLabel, QLineEdit
 from PyQt5.QtGui import QPainter, QPixmap, QPen
 from PyQt5.QtCore import Qt, QPoint
 from PyQt5 import QtWidgets, QtGui
@@ -38,7 +38,7 @@ class Winform(QWidget):
         btn_save.clicked.connect(self.recognize)
  
         label = QLabel(self)
-        label.setText("识别结果：")
+        label.setText(" 识别结果：")
         label.resize(80, 30)
         label.move(10, 130)
 
