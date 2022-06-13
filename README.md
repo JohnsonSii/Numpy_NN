@@ -29,4 +29,4 @@ pip install PyQt5
 ```
 > 运行 recognize_panel 中的 panel.py 文件
 > 
-> ![image](https://user-images.githubusercontent.com/67853082/173360124-05cb6858-798d-42a3-b4d9-185a86670ca5.png)
+> ![image](https://user-images.githubusercontent.com/67853082/173360432-a1931024-d693-4fca-95a0-c0937aef061a.png)
